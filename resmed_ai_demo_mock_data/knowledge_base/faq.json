@@ -1,0 +1,302 @@
+[
+  {
+    "faq_id": "F001",
+    "question": "Can the assistant diagnose a medical condition?",
+    "answer": "No. The demo assistant provides product and support information only and should escalate clinical or diagnostic questions.",
+    "category": "Safety"
+  },
+  {
+    "faq_id": "F002",
+    "question": "What should I check if my mask leaks?",
+    "answer": "Check mask position, headgear adjustment, tubing connections and the seal. Persistent leakage should be reviewed using the product-specific support instructions.",
+    "category": "Cleaning"
+  },
+  {
+    "faq_id": "F003",
+    "question": "What should I check if my mask leaks?",
+    "answer": "Check mask position, headgear adjustment, tubing connections and the seal. Persistent leakage should be reviewed using the product-specific support instructions.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F004",
+    "question": "Can the support assistant change therapy settings?",
+    "answer": "No. The demo assistant must not change prescribed or clinical therapy settings. Such requests should be escalated to an authorized clinician or support workflow.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F005",
+    "question": "What if I experience severe breathing difficulty?",
+    "answer": "The demo assistant should not provide emergency medical management. The user should seek appropriate urgent medical care according to local emergency guidance.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F006",
+    "question": "What if I experience severe breathing difficulty?",
+    "answer": "The demo assistant should not provide emergency medical management. The user should seek appropriate urgent medical care according to local emergency guidance.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F007",
+    "question": "What should I check if the device does not turn on?",
+    "answer": "Check the power connection and confirm that the outlet or power source is functioning. If the issue continues, follow the product support procedure or contact authorized support.",
+    "category": "Accessories"
+  },
+  {
+    "faq_id": "F008",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F009",
+    "question": "How should I clean a mask?",
+    "answer": "Follow the cleaning instructions for the specific mask model. Use the approved cleaning method and allow components to dry completely before reassembly.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F010",
+    "question": "Can the support assistant change therapy settings?",
+    "answer": "No. The demo assistant must not change prescribed or clinical therapy settings. Such requests should be escalated to an authorized clinician or support workflow.",
+    "category": "Safety"
+  },
+  {
+    "faq_id": "F011",
+    "question": "What should I check if my mask leaks?",
+    "answer": "Check mask position, headgear adjustment, tubing connections and the seal. Persistent leakage should be reviewed using the product-specific support instructions.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F012",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Troubleshooting"
+  },
+  {
+    "faq_id": "F013",
+    "question": "What if I experience severe breathing difficulty?",
+    "answer": "The demo assistant should not provide emergency medical management. The user should seek appropriate urgent medical care according to local emergency guidance.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F014",
+    "question": "What if I experience severe breathing difficulty?",
+    "answer": "The demo assistant should not provide emergency medical management. The user should seek appropriate urgent medical care according to local emergency guidance.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F015",
+    "question": "What should I check if my mask leaks?",
+    "answer": "Check mask position, headgear adjustment, tubing connections and the seal. Persistent leakage should be reviewed using the product-specific support instructions.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F016",
+    "question": "What if I experience severe breathing difficulty?",
+    "answer": "The demo assistant should not provide emergency medical management. The user should seek appropriate urgent medical care according to local emergency guidance.",
+    "category": "Cleaning"
+  },
+  {
+    "faq_id": "F017",
+    "question": "Can the assistant diagnose a medical condition?",
+    "answer": "No. The demo assistant provides product and support information only and should escalate clinical or diagnostic questions.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F018",
+    "question": "What should I check if the device does not turn on?",
+    "answer": "Check the power connection and confirm that the outlet or power source is functioning. If the issue continues, follow the product support procedure or contact authorized support.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F019",
+    "question": "How often should accessories be replaced?",
+    "answer": "Replacement timing depends on the specific component, condition, usage and applicable manufacturer guidance. Do not invent a replacement interval when one is not documented.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F020",
+    "question": "What should I check if the device does not turn on?",
+    "answer": "Check the power connection and confirm that the outlet or power source is functioning. If the issue continues, follow the product support procedure or contact authorized support.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F021",
+    "question": "How should I clean a mask?",
+    "answer": "Follow the cleaning instructions for the specific mask model. Use the approved cleaning method and allow components to dry completely before reassembly.",
+    "category": "Accessories"
+  },
+  {
+    "faq_id": "F022",
+    "question": "What should I check if my mask leaks?",
+    "answer": "Check mask position, headgear adjustment, tubing connections and the seal. Persistent leakage should be reviewed using the product-specific support instructions.",
+    "category": "Safety"
+  },
+  {
+    "faq_id": "F023",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Safety"
+  },
+  {
+    "faq_id": "F024",
+    "question": "What should I do if tubing becomes disconnected?",
+    "answer": "Reconnect the tubing securely at the appropriate connection points and inspect it for visible damage.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F025",
+    "question": "Can the assistant diagnose a medical condition?",
+    "answer": "No. The demo assistant provides product and support information only and should escalate clinical or diagnostic questions.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F026",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F027",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Troubleshooting"
+  },
+  {
+    "faq_id": "F028",
+    "question": "How often should accessories be replaced?",
+    "answer": "Replacement timing depends on the specific component, condition, usage and applicable manufacturer guidance. Do not invent a replacement interval when one is not documented.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F029",
+    "question": "Can the support assistant change therapy settings?",
+    "answer": "No. The demo assistant must not change prescribed or clinical therapy settings. Such requests should be escalated to an authorized clinician or support workflow.",
+    "category": "Safety"
+  },
+  {
+    "faq_id": "F030",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Cleaning"
+  },
+  {
+    "faq_id": "F031",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Troubleshooting"
+  },
+  {
+    "faq_id": "F032",
+    "question": "What should I check if the device does not turn on?",
+    "answer": "Check the power connection and confirm that the outlet or power source is functioning. If the issue continues, follow the product support procedure or contact authorized support.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F033",
+    "question": "Can the assistant diagnose a medical condition?",
+    "answer": "No. The demo assistant provides product and support information only and should escalate clinical or diagnostic questions.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F034",
+    "question": "How often should accessories be replaced?",
+    "answer": "Replacement timing depends on the specific component, condition, usage and applicable manufacturer guidance. Do not invent a replacement interval when one is not documented.",
+    "category": "Accessories"
+  },
+  {
+    "faq_id": "F035",
+    "question": "What should I check if the device does not turn on?",
+    "answer": "Check the power connection and confirm that the outlet or power source is functioning. If the issue continues, follow the product support procedure or contact authorized support.",
+    "category": "Troubleshooting"
+  },
+  {
+    "faq_id": "F036",
+    "question": "What should I check if my mask leaks?",
+    "answer": "Check mask position, headgear adjustment, tubing connections and the seal. Persistent leakage should be reviewed using the product-specific support instructions.",
+    "category": "Accessories"
+  },
+  {
+    "faq_id": "F037",
+    "question": "How do I identify my product?",
+    "answer": "Use the model name and device label or the product documentation. If the model cannot be identified confidently, ask the user for the model information before giving product-specific instructions.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F038",
+    "question": "How should I clean a mask?",
+    "answer": "Follow the cleaning instructions for the specific mask model. Use the approved cleaning method and allow components to dry completely before reassembly.",
+    "category": "Troubleshooting"
+  },
+  {
+    "faq_id": "F039",
+    "question": "What if I experience severe breathing difficulty?",
+    "answer": "The demo assistant should not provide emergency medical management. The user should seek appropriate urgent medical care according to local emergency guidance.",
+    "category": "Cleaning"
+  },
+  {
+    "faq_id": "F040",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F041",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Setup"
+  },
+  {
+    "faq_id": "F042",
+    "question": "How do I identify my product?",
+    "answer": "Use the model name and device label or the product documentation. If the model cannot be identified confidently, ask the user for the model information before giving product-specific instructions.",
+    "category": "Safety"
+  },
+  {
+    "faq_id": "F043",
+    "question": "Can the assistant diagnose a medical condition?",
+    "answer": "No. The demo assistant provides product and support information only and should escalate clinical or diagnostic questions.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F044",
+    "question": "Why might therapy data not appear immediately?",
+    "answer": "Connected therapy data may depend on device connectivity and synchronization. Check connectivity status and follow the applicable device instructions.",
+    "category": "Troubleshooting"
+  },
+  {
+    "faq_id": "F045",
+    "question": "How often should accessories be replaced?",
+    "answer": "Replacement timing depends on the specific component, condition, usage and applicable manufacturer guidance. Do not invent a replacement interval when one is not documented.",
+    "category": "Safety"
+  },
+  {
+    "faq_id": "F046",
+    "question": "How often should accessories be replaced?",
+    "answer": "Replacement timing depends on the specific component, condition, usage and applicable manufacturer guidance. Do not invent a replacement interval when one is not documented.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F047",
+    "question": "How do I identify my product?",
+    "answer": "Use the model name and device label or the product documentation. If the model cannot be identified confidently, ask the user for the model information before giving product-specific instructions.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F048",
+    "question": "How often should accessories be replaced?",
+    "answer": "Replacement timing depends on the specific component, condition, usage and applicable manufacturer guidance. Do not invent a replacement interval when one is not documented.",
+    "category": "Safety"
+  },
+  {
+    "faq_id": "F049",
+    "question": "What should I check if the device does not turn on?",
+    "answer": "Check the power connection and confirm that the outlet or power source is functioning. If the issue continues, follow the product support procedure or contact authorized support.",
+    "category": "Connectivity"
+  },
+  {
+    "faq_id": "F050",
+    "question": "Can the support assistant change therapy settings?",
+    "answer": "No. The demo assistant must not change prescribed or clinical therapy settings. Such requests should be escalated to an authorized clinician or support workflow.",
+    "category": "Troubleshooting"
+  }
+]

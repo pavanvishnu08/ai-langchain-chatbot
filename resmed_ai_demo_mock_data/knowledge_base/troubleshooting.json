@@ -1,0 +1,552 @@
+[
+  {
+    "scenario_id": "TRO001",
+    "issue": "Therapy data missing",
+    "recommended_demo_action": "Verify connectivity and synchronization status. If data remains unavailable, escalate through the support workflow.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO002",
+    "issue": "Connectivity unavailable",
+    "recommended_demo_action": "Check the device's connectivity status and follow the applicable connectivity troubleshooting procedure.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO003",
+    "issue": "Therapy data missing",
+    "recommended_demo_action": "Verify connectivity and synchronization status. If data remains unavailable, escalate through the support workflow.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO004",
+    "issue": "Accessory appears damaged",
+    "recommended_demo_action": "Stop using visibly damaged components and follow the replacement/support process.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO005",
+    "issue": "Condensation in tubing",
+    "recommended_demo_action": "Check the humidification and tubing configuration against the applicable product guidance; avoid guessing settings.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO006",
+    "issue": "Tubing disconnected",
+    "recommended_demo_action": "Reconnect the tubing and inspect connections for damage.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO007",
+    "issue": "Device will not start",
+    "recommended_demo_action": "Check power connections and the power source. If the device remains unresponsive, escalate to authorized support.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO008",
+    "issue": "Therapy data missing",
+    "recommended_demo_action": "Verify connectivity and synchronization status. If data remains unavailable, escalate through the support workflow.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO009",
+    "issue": "Water chamber issue",
+    "recommended_demo_action": "Check that the chamber is correctly seated and follow the device-specific cleaning and filling instructions.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO010",
+    "issue": "Water chamber issue",
+    "recommended_demo_action": "Check that the chamber is correctly seated and follow the device-specific cleaning and filling instructions.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO011",
+    "issue": "Therapy data missing",
+    "recommended_demo_action": "Verify connectivity and synchronization status. If data remains unavailable, escalate through the support workflow.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO012",
+    "issue": "Therapy data missing",
+    "recommended_demo_action": "Verify connectivity and synchronization status. If data remains unavailable, escalate through the support workflow.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO013",
+    "issue": "Accessory appears damaged",
+    "recommended_demo_action": "Stop using visibly damaged components and follow the replacement/support process.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO014",
+    "issue": "Unusual device noise",
+    "recommended_demo_action": "Check for obvious loose connections, tubing issues or damaged components. Persistent unusual noise should be escalated.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO015",
+    "issue": "Unusual device noise",
+    "recommended_demo_action": "Check for obvious loose connections, tubing issues or damaged components. Persistent unusual noise should be escalated.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO016",
+    "issue": "Device will not start",
+    "recommended_demo_action": "Check power connections and the power source. If the device remains unresponsive, escalate to authorized support.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO017",
+    "issue": "Connectivity unavailable",
+    "recommended_demo_action": "Check the device's connectivity status and follow the applicable connectivity troubleshooting procedure.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO018",
+    "issue": "Unusual device noise",
+    "recommended_demo_action": "Check for obvious loose connections, tubing issues or damaged components. Persistent unusual noise should be escalated.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO019",
+    "issue": "Tubing disconnected",
+    "recommended_demo_action": "Reconnect the tubing and inspect connections for damage.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO020",
+    "issue": "Condensation in tubing",
+    "recommended_demo_action": "Check the humidification and tubing configuration against the applicable product guidance; avoid guessing settings.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO021",
+    "issue": "High mask leakage",
+    "recommended_demo_action": "Check mask position, seal, headgear and tubing connections. If leakage persists, use the product-specific troubleshooting procedure or escalate.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO022",
+    "issue": "Unusual device noise",
+    "recommended_demo_action": "Check for obvious loose connections, tubing issues or damaged components. Persistent unusual noise should be escalated.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO023",
+    "issue": "Water chamber issue",
+    "recommended_demo_action": "Check that the chamber is correctly seated and follow the device-specific cleaning and filling instructions.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO024",
+    "issue": "Water chamber issue",
+    "recommended_demo_action": "Check that the chamber is correctly seated and follow the device-specific cleaning and filling instructions.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO025",
+    "issue": "High mask leakage",
+    "recommended_demo_action": "Check mask position, seal, headgear and tubing connections. If leakage persists, use the product-specific troubleshooting procedure or escalate.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO026",
+    "issue": "Tubing disconnected",
+    "recommended_demo_action": "Reconnect the tubing and inspect connections for damage.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO027",
+    "issue": "Tubing disconnected",
+    "recommended_demo_action": "Reconnect the tubing and inspect connections for damage.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO028",
+    "issue": "Device will not start",
+    "recommended_demo_action": "Check power connections and the power source. If the device remains unresponsive, escalate to authorized support.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO029",
+    "issue": "Water chamber issue",
+    "recommended_demo_action": "Check that the chamber is correctly seated and follow the device-specific cleaning and filling instructions.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO030",
+    "issue": "Therapy data missing",
+    "recommended_demo_action": "Verify connectivity and synchronization status. If data remains unavailable, escalate through the support workflow.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO031",
+    "issue": "Connectivity unavailable",
+    "recommended_demo_action": "Check the device's connectivity status and follow the applicable connectivity troubleshooting procedure.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO032",
+    "issue": "Device will not start",
+    "recommended_demo_action": "Check power connections and the power source. If the device remains unresponsive, escalate to authorized support.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO033",
+    "issue": "Unusual device noise",
+    "recommended_demo_action": "Check for obvious loose connections, tubing issues or damaged components. Persistent unusual noise should be escalated.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO034",
+    "issue": "Condensation in tubing",
+    "recommended_demo_action": "Check the humidification and tubing configuration against the applicable product guidance; avoid guessing settings.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO035",
+    "issue": "High mask leakage",
+    "recommended_demo_action": "Check mask position, seal, headgear and tubing connections. If leakage persists, use the product-specific troubleshooting procedure or escalate.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO036",
+    "issue": "Mask feels uncomfortable",
+    "recommended_demo_action": "Review fit and headgear positioning using the product-specific fitting guidance. Escalate persistent discomfort.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO037",
+    "issue": "Mask feels uncomfortable",
+    "recommended_demo_action": "Review fit and headgear positioning using the product-specific fitting guidance. Escalate persistent discomfort.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO038",
+    "issue": "Tubing disconnected",
+    "recommended_demo_action": "Reconnect the tubing and inspect connections for damage.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO039",
+    "issue": "Condensation in tubing",
+    "recommended_demo_action": "Check the humidification and tubing configuration against the applicable product guidance; avoid guessing settings.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO040",
+    "issue": "Tubing disconnected",
+    "recommended_demo_action": "Reconnect the tubing and inspect connections for damage.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO041",
+    "issue": "Condensation in tubing",
+    "recommended_demo_action": "Check the humidification and tubing configuration against the applicable product guidance; avoid guessing settings.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO042",
+    "issue": "Accessory appears damaged",
+    "recommended_demo_action": "Stop using visibly damaged components and follow the replacement/support process.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO043",
+    "issue": "Tubing disconnected",
+    "recommended_demo_action": "Reconnect the tubing and inspect connections for damage.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO044",
+    "issue": "Therapy data missing",
+    "recommended_demo_action": "Verify connectivity and synchronization status. If data remains unavailable, escalate through the support workflow.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO045",
+    "issue": "Connectivity unavailable",
+    "recommended_demo_action": "Check the device's connectivity status and follow the applicable connectivity troubleshooting procedure.",
+    "severity": "High",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO046",
+    "issue": "Accessory appears damaged",
+    "recommended_demo_action": "Stop using visibly damaged components and follow the replacement/support process.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO047",
+    "issue": "Unusual device noise",
+    "recommended_demo_action": "Check for obvious loose connections, tubing issues or damaged components. Persistent unusual noise should be escalated.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO048",
+    "issue": "Condensation in tubing",
+    "recommended_demo_action": "Check the humidification and tubing configuration against the applicable product guidance; avoid guessing settings.",
+    "severity": "Low",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO049",
+    "issue": "Device will not start",
+    "recommended_demo_action": "Check power connections and the power source. If the device remains unresponsive, escalate to authorized support.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  },
+  {
+    "scenario_id": "TRO050",
+    "issue": "High mask leakage",
+    "recommended_demo_action": "Check mask position, seal, headgear and tubing connections. If leakage persists, use the product-specific troubleshooting procedure or escalate.",
+    "severity": "Medium",
+    "escalate_if": [
+      "Issue persists",
+      "Visible damage",
+      "Clinical concern"
+    ]
+  }
+]

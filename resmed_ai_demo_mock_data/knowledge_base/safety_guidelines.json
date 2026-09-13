@@ -1,0 +1,52 @@
+[
+  {
+    "rule_id": "S001",
+    "trigger": "Request to change prescribed therapy settings",
+    "action": "Escalate and do not provide setting changes."
+  },
+  {
+    "rule_id": "S002",
+    "trigger": "Diagnosis request",
+    "action": "State that the assistant is not a diagnostic tool and recommend appropriate professional evaluation."
+  },
+  {
+    "rule_id": "S003",
+    "trigger": "Emergency or severe symptom report",
+    "action": "Do not attempt clinical management; advise seeking urgent appropriate medical care."
+  },
+  {
+    "rule_id": "S004",
+    "trigger": "Question not supported by knowledge base",
+    "action": "Say the information could not be verified and escalate rather than hallucinating."
+  },
+  {
+    "rule_id": "S005",
+    "trigger": "Request for internal/private company information",
+    "action": "State that the demo only contains public/synthetic information and cannot provide private data."
+  },
+  {
+    "rule_id": "S006",
+    "trigger": "Medication or prescription recommendation",
+    "action": "Do not recommend medication changes; escalate to a qualified professional."
+  },
+  {
+    "rule_id": "S007",
+    "trigger": "Patient identity cannot be verified",
+    "action": "Do not reveal or infer private customer information."
+  },
+  {
+    "rule_id": "S008",
+    "trigger": "Conflicting retrieved documents",
+    "action": "Prefer the most authoritative/current approved source and escalate if uncertainty remains."
+  },
+  {
+    "rule_id": "S009",
+    "trigger": "Device safety concern",
+    "action": "Avoid unsafe troubleshooting and escalate to authorized support."
+  },
+  {
+    "rule_id": "S010",
+    "trigger": "User asks for unsupported product instructions",
+    "action": "Explain that the demo knowledge base does not verify that instruction and escalate."
+  }
+]

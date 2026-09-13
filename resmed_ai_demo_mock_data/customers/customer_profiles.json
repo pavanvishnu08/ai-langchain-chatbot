@@ -1,0 +1,182 @@
+[
+  {
+    "customer_id": "C001",
+    "name": "Aarav Mehta",
+    "demo_only": true,
+    "primary_product": "AirFit F20",
+    "account_status": "Support Review",
+    "preferred_channel": "Phone",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C002",
+    "name": "Maya Rao",
+    "demo_only": true,
+    "primary_product": "AirTouch F20",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C003",
+    "name": "Daniel Carter",
+    "demo_only": true,
+    "primary_product": "AirFit N20",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C004",
+    "name": "Priya Nair",
+    "demo_only": true,
+    "primary_product": "AirCurve 10",
+    "account_status": "Support Review",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C005",
+    "name": "Ethan Brooks",
+    "demo_only": true,
+    "primary_product": "AirFit N20",
+    "account_status": "Active",
+    "preferred_channel": "Phone",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C006",
+    "name": "Ananya Shah",
+    "demo_only": true,
+    "primary_product": "ClimateLineAir",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C007",
+    "name": "Noah Wilson",
+    "demo_only": true,
+    "primary_product": "Astral 150",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C008",
+    "name": "Riya Kapoor",
+    "demo_only": true,
+    "primary_product": "HumidAir",
+    "account_status": "Active",
+    "preferred_channel": "Phone",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C009",
+    "name": "Liam Turner",
+    "demo_only": true,
+    "primary_product": "HumidAir",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C010",
+    "name": "Sofia Martin",
+    "demo_only": true,
+    "primary_product": "AirCurve 10",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C011",
+    "name": "Arjun Patel",
+    "demo_only": true,
+    "primary_product": "Lumis 150",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C012",
+    "name": "Emma Davis",
+    "demo_only": true,
+    "primary_product": "AirMini",
+    "account_status": "Active",
+    "preferred_channel": "Chat",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C013",
+    "name": "Vikram Rao",
+    "demo_only": true,
+    "primary_product": "AirFit F20",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C014",
+    "name": "Olivia Clark",
+    "demo_only": true,
+    "primary_product": "AirFit N20",
+    "account_status": "Active",
+    "preferred_channel": "Phone",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C015",
+    "name": "Neha Iyer",
+    "demo_only": true,
+    "primary_product": "ClimateLineAir",
+    "account_status": "Support Review",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C016",
+    "name": "Lucas Brown",
+    "demo_only": true,
+    "primary_product": "AirFit N20",
+    "account_status": "Active",
+    "preferred_channel": "Chat",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C017",
+    "name": "Karan Singh",
+    "demo_only": true,
+    "primary_product": "AirFit F20",
+    "account_status": "Active",
+    "preferred_channel": "Chat",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C018",
+    "name": "Mia Johnson",
+    "demo_only": true,
+    "primary_product": "AirSense 11",
+    "account_status": "Support Review",
+    "preferred_channel": "Chat",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C019",
+    "name": "Rahul Menon",
+    "demo_only": true,
+    "primary_product": "AirTouch F20",
+    "account_status": "Active",
+    "preferred_channel": "Email",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  },
+  {
+    "customer_id": "C020",
+    "name": "Isabella Lee",
+    "demo_only": true,
+    "primary_product": "AirTouch F20",
+    "account_status": "Active",
+    "preferred_channel": "Chat",
+    "notes": "Fictional customer record created solely for AI agent demonstration."
+  }
+]

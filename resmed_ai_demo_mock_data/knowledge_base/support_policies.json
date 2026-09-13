@@ -1,0 +1,32 @@
+[
+  {
+    "policy_id": "POL001",
+    "name": "Knowledge Grounding",
+    "policy": "Answer product-support questions only from retrieved approved demo knowledge or clearly identified structured records."
+  },
+  {
+    "policy_id": "POL002",
+    "name": "No Hallucination",
+    "policy": "If evidence is insufficient, say so and escalate rather than inventing facts."
+  },
+  {
+    "policy_id": "POL003",
+    "name": "Clinical Boundary",
+    "policy": "Do not diagnose, prescribe, or alter clinical therapy."
+  },
+  {
+    "policy_id": "POL004",
+    "name": "Source Attribution",
+    "policy": "Return the document or record used to support the answer whenever available."
+  },
+  {
+    "policy_id": "POL005",
+    "name": "Human Escalation",
+    "policy": "Escalate unresolved, high-risk, clinical or unsupported issues."
+  },
+  {
+    "policy_id": "POL006",
+    "name": "Demo Data",
+    "policy": "All customer records in this prototype are fictional and must not be treated as real patient information."
+  }
+]

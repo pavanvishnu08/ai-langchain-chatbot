@@ -1,0 +1,304 @@
+[
+  {
+    "accessory_id": "A001",
+    "name": "Fine Filter",
+    "compatible_demo_products": [
+      "Astral 150"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A002",
+    "name": "Fine Filter",
+    "compatible_demo_products": [
+      "AirFit N20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A003",
+    "name": "Tubing",
+    "compatible_demo_products": [
+      "Astral 150",
+      "Lumis 150",
+      "AirCurve 10"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A004",
+    "name": "Mask Cushion",
+    "compatible_demo_products": [
+      "ClimateLineAir"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A005",
+    "name": "Connector",
+    "compatible_demo_products": [
+      "AirFit N20",
+      "AirCurve 10",
+      "Lumis 150"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A006",
+    "name": "Travel Bag",
+    "compatible_demo_products": [
+      "Lumis 150",
+      "AirTouch F20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A007",
+    "name": "Heated Tubing",
+    "compatible_demo_products": [
+      "AirFit N20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A008",
+    "name": "Heated Tubing",
+    "compatible_demo_products": [
+      "ClimateLineAir"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A009",
+    "name": "Heated Tubing",
+    "compatible_demo_products": [
+      "HumidAir",
+      "AirCurve 10"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A010",
+    "name": "Heated Tubing",
+    "compatible_demo_products": [
+      "Lumis 150",
+      "AirCurve 10",
+      "HumidAir"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A011",
+    "name": "Headgear",
+    "compatible_demo_products": [
+      "ClimateLineAir"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A012",
+    "name": "Water Chamber",
+    "compatible_demo_products": [
+      "Lumis 150",
+      "ClimateLineAir"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A013",
+    "name": "Connector",
+    "compatible_demo_products": [
+      "Lumis 150",
+      "AirFit F20",
+      "AirSense 11"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A014",
+    "name": "Water Chamber",
+    "compatible_demo_products": [
+      "Lumis 150",
+      "Astral 150",
+      "HumidAir"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A015",
+    "name": "Standard Filter",
+    "compatible_demo_products": [
+      "AirSense 11",
+      "Astral 150"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A016",
+    "name": "Fine Filter",
+    "compatible_demo_products": [
+      "Lumis 150"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A017",
+    "name": "Tubing",
+    "compatible_demo_products": [
+      "Lumis 150",
+      "AirTouch F20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A018",
+    "name": "Standard Filter",
+    "compatible_demo_products": [
+      "Lumis 150",
+      "AirTouch F20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A019",
+    "name": "Heated Tubing",
+    "compatible_demo_products": [
+      "AirFit N20",
+      "AirSense 11",
+      "AirCurve 10"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A020",
+    "name": "Mask Cushion",
+    "compatible_demo_products": [
+      "AirCurve 10",
+      "AirSense 11",
+      "AirFit N20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A021",
+    "name": "Heated Tubing",
+    "compatible_demo_products": [
+      "AirFit F20",
+      "AirSense 11"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A022",
+    "name": "Fine Filter",
+    "compatible_demo_products": [
+      "HumidAir",
+      "AirFit F20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A023",
+    "name": "Mask Cushion",
+    "compatible_demo_products": [
+      "AirFit F20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A024",
+    "name": "Fine Filter",
+    "compatible_demo_products": [
+      "AirFit N20",
+      "AirSense 11",
+      "Astral 150"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A025",
+    "name": "Connector",
+    "compatible_demo_products": [
+      "Lumis 150",
+      "HumidAir",
+      "ClimateLineAir"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A026",
+    "name": "Tubing",
+    "compatible_demo_products": [
+      "AirMini",
+      "HumidAir",
+      "Astral 150"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A027",
+    "name": "Tubing",
+    "compatible_demo_products": [
+      "ClimateLineAir",
+      "AirFit N20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A028",
+    "name": "Tubing",
+    "compatible_demo_products": [
+      "Astral 150",
+      "AirTouch F20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A029",
+    "name": "Travel Bag",
+    "compatible_demo_products": [
+      "AirFit N20"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  },
+  {
+    "accessory_id": "A030",
+    "name": "Headgear",
+    "compatible_demo_products": [
+      "AirTouch F20",
+      "AirSense 11",
+      "HumidAir"
+    ],
+    "support_notes": "Synthetic compatibility and support record for demonstration only.",
+    "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "AirSense 11",
+    "category": "CPAP",
+    "description": "Synthetic demo profile for a connected positive airway pressure device.",
+    "features": [
+      "Therapy tracking",
+      "Cellular connectivity",
+      "Integrated humidification",
+      "User guidance"
+    ],
+    "support_topics": [
+      "setup",
+      "mask leakage",
+      "connectivity",
+      "cleaning",
+      "maintenance"
+    ]
+  },
+  {
+    "product_id": "P002",
+    "product_name": "AirMini",
+    "category": "Travel CPAP",
+    "description": "Synthetic demo profile for a compact travel positive airway pressure device.",
+    "features": [
+      "Compact form factor",
+      "Travel-oriented design",
+      "Therapy tracking"
+    ],
+    "support_topics": [
+      "setup",
+      "travel use",
+      "mask connection",
+      "cleaning"
+    ]
+  },
+  {
+    "product_id": "P003",
+    "product_name": "AirFit F20",
+    "category": "Full Face Mask",
+    "description": "Synthetic demo profile for a full-face therapy mask.",
+    "features": [
+      "Full-face coverage",
+      "Adjustable headgear",
+      "Cushion seal"
+    ],
+    "support_topics": [
+      "fitting",
+      "leakage",
+      "cleaning",
+      "replacement"
+    ]
+  },
+  {
+    "product_id": "P004",
+    "product_name": "AirFit N20",
+    "category": "Nasal Mask",
+    "description": "Synthetic demo profile for a nasal therapy mask.",
+    "features": [
+      "Nasal interface",
+      "Adjustable headgear",
+      "Cushion seal"
+    ],
+    "support_topics": [
+      "fitting",
+      "leakage",
+      "cleaning",
+      "replacement"
+    ]
+  },
+  {
+    "product_id": "P005",
+    "product_name": "AirTouch F20",
+    "category": "Full Face Mask",
+    "description": "Synthetic demo profile for a full-face mask with a soft cushion interface.",
+    "features": [
+      "Full-face coverage",
+      "Soft cushion concept",
+      "Adjustable headgear"
+    ],
+    "support_topics": [
+      "fitting",
+      "leakage",
+      "cleaning",
+      "replacement"
+    ]
+  },
+  {
+    "product_id": "P006",
+    "product_name": "AirCurve 10",
+    "category": "Bilevel",
+    "description": "Synthetic demo profile for a bilevel positive airway pressure device.",
+    "features": [
+      "Therapy tracking",
+      "Humidification support",
+      "Connectivity"
+    ],
+    "support_topics": [
+      "setup",
+      "connectivity",
+      "cleaning",
+      "maintenance"
+    ]
+  },
+  {
+    "product_id": "P007",
+    "product_name": "Lumis 150",
+    "category": "Non-invasive Ventilation",
+    "description": "Synthetic demo profile for a non-invasive ventilation device.",
+    "features": [
+      "Therapy monitoring",
+      "Remote data concept",
+      "Configurable support"
+    ],
+    "support_topics": [
+      "setup",
+      "monitoring",
+      "maintenance",
+      "support escalation"
+    ]
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Astral 150",
+    "category": "Ventilation",
+    "description": "Synthetic demo profile for a portable ventilation device.",
+    "features": [
+      "Portable design",
+      "Therapy monitoring",
+      "Support workflows"
+    ],
+    "support_topics": [
+      "setup",
+      "battery",
+      "maintenance",
+      "support escalation"
+    ]
+  },
+  {
+    "product_id": "P009",
+    "product_name": "HumidAir",
+    "category": "Humidification",
+    "description": "Synthetic demo profile for a humidification accessory.",
+    "features": [
+      "Humidity support",
+      "Water chamber workflow"
+    ],
+    "support_topics": [
+      "water chamber",
+      "cleaning",
+      "maintenance"
+    ]
+  },
+  {
+    "product_id": "P010",
+    "product_name": "ClimateLineAir",
+    "category": "Tubing",
+    "description": "Synthetic demo profile for heated tubing used within a compatible therapy setup.",
+    "features": [
+      "Heated tubing concept",
+      "Temperature management"
+    ],
+    "support_topics": [
+      "connection",
+      "condensation",
+      "replacement"
+    ]
+  }
+]
