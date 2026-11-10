@@ -1,7 +1,7 @@
-# ResMed AI Agent Demo — Synthetic Dataset
+# ORX AI Agent Demo — Synthetic Dataset
 
 IMPORTANT: This dataset is entirely synthetic and created for a LangChain/RAG/agent demonstration.
-It is NOT official ResMed internal data, NOT patient data, and NOT clinical guidance.
+It is NOT official ORX internal data, NOT patient data, and NOT clinical guidance.
 
 Suggested demo:
 1. Ingest knowledge_base/*.json into a vector store.
@@ -17,7 +17,7 @@ Suggested demo:
 6. Add safety rules so clinical/high-risk/unsupported requests are escalated.
 
 Example questions:
-- What is AirSense 11?
+- What is ORX Sleep 11?
 - What should I check if my mask leaks?
 - Show the support history for C001.
 - Has C001 reported a mask leakage issue?

@@ -1,7 +1,7 @@
 [
   {
     "product_id": "P001",
-    "product_name": "AirSense 11",
+    "product_name": "ORX Sleep 11",
     "category": "CPAP",
     "description": "Synthetic demo profile for a connected positive airway pressure device.",
     "features": [
@@ -20,7 +20,7 @@
   },
   {
     "product_id": "P002",
-    "product_name": "AirMini",
+    "product_name": "ORX Go",
     "category": "Travel CPAP",
     "description": "Synthetic demo profile for a compact travel positive airway pressure device.",
     "features": [
@@ -105,7 +105,7 @@
   },
   {
     "product_id": "P007",
-    "product_name": "Lumis 150",
+    "product_name": "ORX Breathe 150",
     "category": "Non-invasive Ventilation",
     "description": "Synthetic demo profile for a non-invasive ventilation device.",
     "features": [

@@ -24,7 +24,7 @@
   {
     "ticket_id": "TK0003",
     "customer_id": "C011",
-    "product": "Lumis 150",
+    "product": "ORX Breathe 150",
     "issue": "High mask leakage",
     "priority": "Medium",
     "status": "Open",
@@ -255,7 +255,7 @@
   {
     "ticket_id": "TK0024",
     "customer_id": "C012",
-    "product": "AirMini",
+    "product": "ORX Go",
     "issue": "Therapy data missing",
     "priority": "Medium",
     "status": "Escalated",
@@ -310,7 +310,7 @@
   {
     "ticket_id": "TK0029",
     "customer_id": "C012",
-    "product": "AirMini",
+    "product": "ORX Go",
     "issue": "Connectivity follow-up",
     "priority": "Medium",
     "status": "Open",
@@ -420,7 +420,7 @@
   {
     "ticket_id": "TK0039",
     "customer_id": "C018",
-    "product": "AirSense 11",
+    "product": "ORX Sleep 11",
     "issue": "Setup assistance",
     "priority": "Medium",
     "status": "Escalated",
@@ -431,7 +431,7 @@
   {
     "ticket_id": "TK0040",
     "customer_id": "C018",
-    "product": "AirSense 11",
+    "product": "ORX Sleep 11",
     "issue": "Connectivity follow-up",
     "priority": "Low",
     "status": "In Progress",

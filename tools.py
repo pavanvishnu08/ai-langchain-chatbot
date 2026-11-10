@@ -2,7 +2,7 @@
 tools.py
 --------
 LangChain tools for the agent chatbot (see agent_chatbot.py), backed by
-the structured JSON records in resmed_ai_demo_mock_data/. These are
+the structured JSON records in orx_ai_demo_mock_data/. These are
 NOT vector-searched - they're exact/filtered lookups over structured
 records, which is the right tool for "look up customer C001" or "list
 open tickets for product X" (a vector search would be the wrong tool
@@ -10,7 +10,7 @@ for that; a database-style filter is).
 
 IMPORTANT: every record here is synthetic demo data. lookup_customer and
 search_support_tickets simulate looking up an internal system - they are
-not connected to any real ResMed system or real patients.
+not connected to any real ORX system or real patients.
 """
 
 import json
@@ -67,7 +67,7 @@ def search_knowledge(query: str) -> str:
 
 @tool
 def get_product(product_name: str) -> str:
-    """Look up a specific demo product's details by name (e.g. 'AirSense 11',
+    """Look up a specific demo product's details by name (e.g. 'ORX Sleep 11',
     'AirFit F20'). Use this when the user names a specific product and you
     need its category, description, features, or support topics."""
     needle = product_name.strip().lower()

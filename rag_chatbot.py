@@ -5,9 +5,9 @@ This is a LangChain-powered Retrieval-Augmented Generation (RAG) chatbot.
 Unlike normal_chatbot.py, before answering it:
 
   1. Embeds the user's question with a free local embedding model
-  2. Searches a FAISS vector index built from the synthetic ResMed AI
+  2. Searches a FAISS vector index built from the synthetic ORX AI
      demo dataset (see build_knowledge_base.py and
-     resmed_ai_demo_mock_data/README.md) - NOT real ResMed website
+     orx_ai_demo_mock_data/README.md) - NOT real ORX website
      content, NOT patient data
   3. Pulls back the most relevant chunks of that data
   4. Hands those chunks to the LLM as *grounding context*, with an
@@ -31,10 +31,10 @@ from langchain_core.runnables import RunnablePassthrough
 
 from config import EMBEDDING_MODEL, VECTORSTORE_DIR, get_llm
 
-SYSTEM_TEMPLATE = """You are a ResMed AI support demo assistant. Answer ONLY
+SYSTEM_TEMPLATE = """You are a ORX AI support demo assistant. Answer ONLY
 using the CONTEXT below, which was retrieved from a synthetic demo
 knowledge base (products, FAQs, accessories, safety guidelines, support
-policies, troubleshooting). This is NOT real ResMed data and NOT medical
+policies, troubleshooting). This is NOT real ORX data and NOT medical
 advice.
 
 Rules:
@@ -58,7 +58,7 @@ class RagChatbot:
         if not os.path.exists(VECTORSTORE_DIR):
             raise RuntimeError(
                 "No vector index found. Run `python build_knowledge_base.py` "
-                "first to build one from the ResMed knowledge base."
+                "first to build one from the ORX knowledge base."
             )
 
         embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
@@ -101,7 +101,7 @@ class RagChatbot:
 
 if __name__ == "__main__":
     bot = RagChatbot()
-    print("RAG chatbot ready. Try: 'How many lives has ResMed impacted in the last 12 months?'")
+    print("RAG chatbot ready. Try: 'How many lives has ORX impacted in the last 12 months?'")
     while True:
         q = input("\nYou: ")
         if q.lower() in ("exit", "quit"):

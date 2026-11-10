@@ -93,7 +93,7 @@
     "customer_id": "C011",
     "name": "Arjun Patel",
     "demo_only": true,
-    "primary_product": "Lumis 150",
+    "primary_product": "ORX Breathe 150",
     "account_status": "Active",
     "preferred_channel": "Email",
     "notes": "Fictional customer record created solely for AI agent demonstration."
@@ -102,7 +102,7 @@
     "customer_id": "C012",
     "name": "Emma Davis",
     "demo_only": true,
-    "primary_product": "AirMini",
+    "primary_product": "ORX Go",
     "account_status": "Active",
     "preferred_channel": "Chat",
     "notes": "Fictional customer record created solely for AI agent demonstration."
@@ -156,7 +156,7 @@
     "customer_id": "C018",
     "name": "Mia Johnson",
     "demo_only": true,
-    "primary_product": "AirSense 11",
+    "primary_product": "ORX Sleep 11",
     "account_status": "Support Review",
     "preferred_channel": "Chat",
     "notes": "Fictional customer record created solely for AI agent demonstration."

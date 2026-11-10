@@ -14,7 +14,7 @@ the SAME underlying model:
                          customers, and support tickets, or escalate -
                          choosing whichever fits the question
 
-Both grounded in a synthetic ResMed AI demo dataset - not real ResMed
+Both grounded in a synthetic ORX AI demo dataset - not real ORX
 data, not patient data.
 """
 
@@ -25,22 +25,22 @@ from normal_chatbot import NormalChatbot
 from agent_chatbot import AgentChatbot
 from config import VECTORSTORE_DIR, GROQ_MODELS
 
-st.set_page_config(page_title="LangChain vs. Normal Chatbot — ResMed AI Demo", layout="wide")
+st.set_page_config(page_title="LangChain vs. Normal Chatbot — ORX AI Demo", layout="wide")
 
-st.title("🩺 LangChain vs. a Normal Chatbot — ResMed AI Demo")
+st.title("🩺 LangChain vs. a Normal Chatbot — ORX AI Demo")
 st.caption(
     "Same LLM on both sides. The only difference: the right side is a LangChain agent that "
-    "retrieves from a synthetic ResMed AI demo knowledge base and can look up products, "
+    "retrieves from a synthetic ORX AI demo knowledge base and can look up products, "
     "customers, and support tickets, or escalate. This dataset is entirely synthetic — not "
-    "real ResMed data, not patient data."
+    "real ORX data, not patient data."
 )
 
 with st.expander("💡 Good questions to try (click to expand)", expanded=False):
     st.markdown(
         """
-- What is AirSense 11?
+- What is ORX Sleep 11?
 - What should I check if my mask leaks?
-- What accessories are compatible with the Lumis 150?
+- What accessories are compatible with the ORX Breathe 150?
 - What should I do if tubing becomes disconnected?
 - Can the assistant change my therapy settings?
 - What should happen if I report severe breathing difficulty?
@@ -122,7 +122,7 @@ if "agent_bot" not in st.session_state and kb_ready:
         st.session_state.agent_bot_error = str(e)
 
 # ---- Input -------------------------------------------------------------------
-question = st.chat_input("Ask a question about ResMed products, support, or a customer ID (e.g. C001)...")
+question = st.chat_input("Ask a question about ORX products, support, or a customer ID (e.g. C001)...")
 
 if question:
     normal_answer, agent_answer = None, None

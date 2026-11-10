@@ -2,7 +2,7 @@
 config.py
 ---------
 One place to control which LLM powers both chatbots, so the comparison
-is fair: same brain, different amount of ResMed knowledge.
+is fair: same brain, different amount of ORX knowledge.
 
 Two $0 options are supported out of the box:
 
@@ -51,10 +51,10 @@ EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 VECTORSTORE_DIR = os.path.join(os.path.dirname(__file__), "vectorstore")
 
-# Synthetic ResMed AI demo dataset (NOT real ResMed website content, NOT
-# patient data) - see resmed_ai_demo_mock_data/README.md. This is what the
+# Synthetic ORX AI demo dataset (NOT real ORX website content, NOT
+# patient data) - see orx_ai_demo_mock_data/README.md. This is what the
 # RAG chatbot's vector store is built from.
-MOCK_DATA_DIR = os.path.join(os.path.dirname(__file__), "resmed_ai_demo_mock_data")
+MOCK_DATA_DIR = os.path.join(os.path.dirname(__file__), "orx_ai_demo_mock_data")
 KNOWLEDGE_BASE_DIR = os.path.join(MOCK_DATA_DIR, "knowledge_base")
 
 

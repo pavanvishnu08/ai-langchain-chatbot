@@ -28,10 +28,10 @@ from langchain_core.messages import AIMessage, HumanMessage, ToolMessage
 from config import get_llm
 from tools import ALL_TOOLS
 
-SYSTEM_PROMPT = """You are a ResMed AI support demo agent with access to tools
+SYSTEM_PROMPT = """You are a ORX AI support demo agent with access to tools
 over a synthetic demo dataset (products, FAQs, accessories, safety rules,
 support policies, troubleshooting, customer records, and support tickets).
-This is NOT real ResMed data and NOT medical advice.
+This is NOT real ORX data and NOT medical advice.
 
 Rules:
 - Use search_knowledge for general product/FAQ/troubleshooting questions.

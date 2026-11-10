@@ -4,11 +4,11 @@ normal_chatbot.py
 This is what most people mean by "just a chatbot": a direct call to an
 LLM with a generic system prompt and the raw chat history. It has:
 
-  - No connection to any ResMed-specific data
+  - No connection to any ORX-specific data
   - No retrieval step
   - No way to check its own facts
 
-It will happily answer questions about ResMed using only whatever the
+It will happily answer questions about ORX using only whatever the
 underlying model learned during pretraining - which is often outdated,
 generic, or simply invented (a "hallucination"). This file exists so
 you can compare it directly against rag_chatbot.py.
@@ -51,7 +51,7 @@ class NormalChatbot:
 
 if __name__ == "__main__":
     bot = NormalChatbot()
-    print("Normal chatbot ready. Try: 'How many lives has ResMed impacted in the last 12 months?'")
+    print("Normal chatbot ready. Try: 'How many lives has ORX impacted in the last 12 months?'")
     while True:
         q = input("\nYou: ")
         if q.lower() in ("exit", "quit"):

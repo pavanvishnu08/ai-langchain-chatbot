@@ -22,7 +22,7 @@
     "name": "Tubing",
     "compatible_demo_products": [
       "Astral 150",
-      "Lumis 150",
+      "ORX Breathe 150",
       "AirCurve 10"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -43,7 +43,7 @@
     "compatible_demo_products": [
       "AirFit N20",
       "AirCurve 10",
-      "Lumis 150"
+      "ORX Breathe 150"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
     "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
@@ -52,7 +52,7 @@
     "accessory_id": "A006",
     "name": "Travel Bag",
     "compatible_demo_products": [
-      "Lumis 150",
+      "ORX Breathe 150",
       "AirTouch F20"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -90,7 +90,7 @@
     "accessory_id": "A010",
     "name": "Heated Tubing",
     "compatible_demo_products": [
-      "Lumis 150",
+      "ORX Breathe 150",
       "AirCurve 10",
       "HumidAir"
     ],
@@ -110,7 +110,7 @@
     "accessory_id": "A012",
     "name": "Water Chamber",
     "compatible_demo_products": [
-      "Lumis 150",
+      "ORX Breathe 150",
       "ClimateLineAir"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -120,9 +120,9 @@
     "accessory_id": "A013",
     "name": "Connector",
     "compatible_demo_products": [
-      "Lumis 150",
+      "ORX Breathe 150",
       "AirFit F20",
-      "AirSense 11"
+      "ORX Sleep 11"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
     "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
@@ -131,7 +131,7 @@
     "accessory_id": "A014",
     "name": "Water Chamber",
     "compatible_demo_products": [
-      "Lumis 150",
+      "ORX Breathe 150",
       "Astral 150",
       "HumidAir"
     ],
@@ -142,7 +142,7 @@
     "accessory_id": "A015",
     "name": "Standard Filter",
     "compatible_demo_products": [
-      "AirSense 11",
+      "ORX Sleep 11",
       "Astral 150"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -152,7 +152,7 @@
     "accessory_id": "A016",
     "name": "Fine Filter",
     "compatible_demo_products": [
-      "Lumis 150"
+      "ORX Breathe 150"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
     "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
@@ -161,7 +161,7 @@
     "accessory_id": "A017",
     "name": "Tubing",
     "compatible_demo_products": [
-      "Lumis 150",
+      "ORX Breathe 150",
       "AirTouch F20"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -171,7 +171,7 @@
     "accessory_id": "A018",
     "name": "Standard Filter",
     "compatible_demo_products": [
-      "Lumis 150",
+      "ORX Breathe 150",
       "AirTouch F20"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -182,7 +182,7 @@
     "name": "Heated Tubing",
     "compatible_demo_products": [
       "AirFit N20",
-      "AirSense 11",
+      "ORX Sleep 11",
       "AirCurve 10"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -193,7 +193,7 @@
     "name": "Mask Cushion",
     "compatible_demo_products": [
       "AirCurve 10",
-      "AirSense 11",
+      "ORX Sleep 11",
       "AirFit N20"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -204,7 +204,7 @@
     "name": "Heated Tubing",
     "compatible_demo_products": [
       "AirFit F20",
-      "AirSense 11"
+      "ORX Sleep 11"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
     "replacement_rule": "Use documented product guidance; do not infer a fixed replacement interval."
@@ -233,7 +233,7 @@
     "name": "Fine Filter",
     "compatible_demo_products": [
       "AirFit N20",
-      "AirSense 11",
+      "ORX Sleep 11",
       "Astral 150"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",
@@ -243,7 +243,7 @@
     "accessory_id": "A025",
     "name": "Connector",
     "compatible_demo_products": [
-      "Lumis 150",
+      "ORX Breathe 150",
       "HumidAir",
       "ClimateLineAir"
     ],
@@ -254,7 +254,7 @@
     "accessory_id": "A026",
     "name": "Tubing",
     "compatible_demo_products": [
-      "AirMini",
+      "ORX Go",
       "HumidAir",
       "Astral 150"
     ],
@@ -295,7 +295,7 @@
     "name": "Headgear",
     "compatible_demo_products": [
       "AirTouch F20",
-      "AirSense 11",
+      "ORX Sleep 11",
       "HumidAir"
     ],
     "support_notes": "Synthetic compatibility and support record for demonstration only.",

@@ -1,20 +1,20 @@
-# LangChain vs. Normal Chatbot — ResMed AI Demo
+# LangChain vs. Normal Chatbot — ORX AI Demo
 
 A Streamlit app that lets you type one question and see it answered **two
 ways at once**, using the same LLM:
 
 - **Normal chatbot** — a direct LLM call. Answers from whatever it learned
-  during pretraining. No access to any ResMed-specific data or tools.
+  during pretraining. No access to any ORX-specific data or tools.
 - **LangChain chatbot** — a tool-calling agent that retrieves from a
-  synthetic ResMed AI demo knowledge base (RAG), and can also look up
+  synthetic ORX AI demo knowledge base (RAG), and can also look up
   products, customer accounts, and support tickets, or escalate — choosing
   whichever fits the question.
 
 **Total cost: $0.** Embeddings and vector search run locally and free. The
 LLM call uses Groq's free API tier (or a fully local, offline Ollama model).
 
-> **Note:** All data in this project (`resmed_ai_demo_mock_data/`) is
-> entirely synthetic — created for this demo. It is **not** real ResMed
+> **Note:** All data in this project (`orx_ai_demo_mock_data/`) is
+> entirely synthetic — created for this demo. It is **not** real ORX
 > data, **not** patient data, and nothing here is medical advice.
 
 ---
@@ -29,7 +29,7 @@ LLM call uses Groq's free API tier (or a fully local, offline Ollama model).
 ### Step 1 — Get the code and open a terminal here
 
 ```bash
-cd resmed-langchain-demo
+cd ORX-langchain-demo
 ```
 
 ### Step 2 — Create an isolated virtual environment
@@ -94,7 +94,7 @@ Get a free key at https://console.groq.com/keys (no credit card).
 python build_knowledge_base.py
 ```
 
-This reads `resmed_ai_demo_mock_data/knowledge_base/*.json`, embeds each
+This reads `orx_ai_demo_mock_data/knowledge_base/*.json`, embeds each
 record locally (free, downloads a small ~90MB model on first run), and
 saves a FAISS index to `vectorstore/`. Re-run this any time you edit the
 mock data.
@@ -117,8 +117,8 @@ a question, and compare the two answers.
 ## 2. Project structure
 
 ```
-resmed-langchain-demo/
-├── resmed_ai_demo_mock_data/       # synthetic dataset (see its own README.md)
+ORX-langchain-demo/
+├── orx_ai_demo_mock_data/       # synthetic dataset (see its own README.md)
 │   ├── knowledge_base/             # products, FAQ, accessories, safety, policies, troubleshooting
 │   ├── customers/customer_profiles.json
 │   └── support/support_tickets.json
@@ -186,7 +186,7 @@ idea behind RAG and tool-use: **traceable, checkable answers.**
 ## 6. Customizing / extending
 
 - **Add more knowledge:** add records to the JSON files under
-  `resmed_ai_demo_mock_data/knowledge_base/`, then re-run
+  `orx_ai_demo_mock_data/knowledge_base/`, then re-run
   `build_knowledge_base.py`.
 - **Add more tools:** define a new `@tool`-decorated function in
   `tools.py` and add it to `ALL_TOOLS`.
@@ -206,9 +206,9 @@ idea behind RAG and tool-use: **traceable, checkable answers.**
 
 ## 8. Important notes
 
-- `resmed_ai_demo_mock_data/` is entirely synthetic and was created only
+- `orx_ai_demo_mock_data/` is entirely synthetic and was created only
   for this LangChain/RAG/agent demonstration. It is **not** official
-  ResMed data and **not** patient data — see its own `README.md`.
+  ORX data and **not** patient data — see its own `README.md`.
 - Nothing here should be used to give medical advice. The assistant is
   instructed to defer diagnosis/treatment/clinical requests to a
   qualified professional and to escalate rather than guess.

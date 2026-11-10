@@ -1,7 +1,7 @@
 """
 build_knowledge_base.py
 ------------------------
-Turns resmed_ai_demo_mock_data/knowledge_base/*.json into a searchable
+Turns orx_ai_demo_mock_data/knowledge_base/*.json into a searchable
 FAISS vector index on disk. Run this once (and again any time you edit
 the mock data):
 
@@ -12,8 +12,8 @@ the reason the LangChain bot can answer with grounded facts instead of
 guessing.
 
 IMPORTANT: this dataset is entirely synthetic, created for a LangChain/
-RAG demonstration. It is NOT real ResMed website content and NOT patient
-data. See resmed_ai_demo_mock_data/README.md.
+RAG demonstration. It is NOT real ORX website content and NOT patient
+data. See orx_ai_demo_mock_data/README.md.
 """
 
 import json
@@ -105,7 +105,7 @@ def load_and_split_documents():
                 Document(
                     page_content=text,
                     metadata={
-                        "source": "resmed_ai_demo_mock_data (synthetic)",
+                        "source": "orx_ai_demo_mock_data (synthetic)",
                         "file": filename,
                         "section": label,
                     },
@@ -115,7 +115,7 @@ def load_and_split_documents():
 
 
 def main():
-    print("Loading and rendering the synthetic ResMed AI demo knowledge base...")
+    print("Loading and rendering the synthetic ORX AI demo knowledge base...")
     docs = load_and_split_documents()
     print(f"Created {len(docs)} chunks from {len(FILE_RENDERERS)} JSON files.")
 
